@@ -1,0 +1,6 @@
+{
+  "name": "COSMOS EXPLORER",
+  "description": "Interactive educational space exploration platform discovering planets, stars, galaxies, black holes, and missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
